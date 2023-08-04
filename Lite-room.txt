@@ -2,3 +2,4 @@ lite room
 -membuat login
 -membuat chat room
 -fitur serempak di chat room
+-rom terdekat denagan bot
